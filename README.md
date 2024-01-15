@@ -1,5 +1,6 @@
-<img width=55% align="center"  src=![Home](https://github.com/GustavoPires6/GustavoPires6/assets/148592579/074c3cd8-e601-415a-870e-34954bb0def6) />
-
+<div align="center">
+<img src="https://github.com/GustavoPires6/GustavoPires6/assets/148592579/0d96fa34-cf63-435c-9488-8b3bed5e12ac" width="700px" />
+</div>
 
 <p align="center">Sou um profissional iniciante na área de Tecnologia da Informação. <br><br> Apaixonado por soluções inovadoras e eficientes.</p>&nbsp;
 
