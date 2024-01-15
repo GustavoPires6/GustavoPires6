@@ -1,4 +1,3 @@
-
 <p align="center">Sou um profissional iniciante na área de Tecnologia da Informação. <br><br> Apaixonado por soluções inovadoras e eficientes.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
